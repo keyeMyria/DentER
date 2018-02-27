@@ -71,10 +71,6 @@
   version "8.5.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.5.2.tgz#83b8103fa9a2c2e83d78f701a9aa7c9539739aa5"
 
-"@types/node@^9.4.7":
-  version "9.4.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.4.7.tgz#57d81cd98719df2c9de118f2d5f3b1120dcd7275"
-
 "@types/react-native-vector-icons@^4.3.1":
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/@types/react-native-vector-icons/-/react-native-vector-icons-4.4.2.tgz#dd6b6a4d9dee7c85e3246f6c67905dbc1faee3d5"
@@ -376,17 +372,17 @@ asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
 
-aws-amplify-react-native@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/aws-amplify-react-native/-/aws-amplify-react-native-0.2.5.tgz#87ef32d6d281c2a19178fa7df6d6feeb6c5ce5b8"
+aws-amplify-react-native@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/aws-amplify-react-native/-/aws-amplify-react-native-0.2.4.tgz#1617947ec7a05741f955f28c7d2b359537b50df8"
   dependencies:
     aws-amplify "^0.2.x"
     axios "^0.17.1"
     babel-preset-es2015 "^6.24.1"
 
-aws-amplify@^0.2.9, aws-amplify@^0.2.x:
-  version "0.2.9"
-  resolved "https://registry.yarnpkg.com/aws-amplify/-/aws-amplify-0.2.9.tgz#97cb3bececc70fc8baae9e7c9115f0c4c7e72c46"
+aws-amplify@^0.2.7, aws-amplify@^0.2.x:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/aws-amplify/-/aws-amplify-0.2.7.tgz#57ed81f35614303eb02c62b073b9b79dc6c786c7"
   dependencies:
     amazon-cognito-identity-js "^2.0.0"
     aws-sdk "2.198.0"
